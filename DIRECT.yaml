@@ -1,0 +1,7 @@
++rules:
+  - "DOMAIN-SUFFIX,baidu.com,DIRECT"
+  - "DOMAIN-SUFFIX,tencent.com,DIRECT"
+  - "DOMAIN-SUFFIX,copilot.supercopilot.top,DIRECT"
+  - "DOMAIN-SUFFIX,chatglm.cn,DIRECT"
+  - "DOMAIN-SUFFIX,rewards.bing.com,DIRECT"
+  - "DOMAIN-SUFFIX,www.liblib.art,DIRECT"
