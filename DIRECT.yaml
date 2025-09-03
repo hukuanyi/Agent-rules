@@ -10,3 +10,5 @@
   - "DOMAIN-SUFFIX,*.edu.cn,DIRECT"
   - "DOMAIN-SUFFIX,bilibili.com,DIRECT"
   - "DOMAIN-SUFFIX,cnki.net,DIRECT"
+  - "DOMAIN-SUFFIX,zp.cpta.com.cn,DIRECT"
+
